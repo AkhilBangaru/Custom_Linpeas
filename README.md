@@ -1,4 +1,5 @@
 # 🛡️ CUSTOM LINPEAS
+<img width="893" height="319" alt="logo" src="https://github.com/user-attachments/assets/ac18c9b4-cfa8-4058-b4b9-bd88c15360ac" />
 
 **Custom linPEAS** is an **interactive Linux local enumeration framework** inspired by *linPEAS*, designed with a **clean TUI menu**, **selectable checks**, and **readable output** for learning, labs, and exam environments.
 
@@ -169,7 +170,6 @@ Do **not** use this tool on systems you do not own or have explicit permission t
 ## 👤 Author
 
 **Akhil Bangaru**
-Custom linPEAS — Built with clarity and control in mind.
 
 ---
 
