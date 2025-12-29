@@ -125,9 +125,9 @@ show_menu() {
 
     echo -e "${CYAN}${TBL_BOT}${NC}"
     
-    printf "${MAGENTA}📊 Selected: %2d/24 ${NC}" "$selected_count"
+    printf "${MAGENTA} Selected:%2d/24 ${NC}" "$selected_count"
     if [ "$selected_count" -gt 0 ]; then
-        printf "${YELLOW}⏱️  ETA: ~%-2ds ${GREEN}💾 File: %-25s${NC}\n" "$((selected_count * 2))" "$OUTPUT_FILE"
+        printf "${YELLOW}  ETA: ~%-2ds ${GREEN} File: %-25s${NC}\n" "$((selected_count * 2))" "$OUTPUT_FILE"
     else
         echo ""
     fi
