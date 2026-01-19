@@ -76,7 +76,7 @@ The tool currently includes **24 selectable checks**, grouped logically:
 
 No dependencies required beyond standard Linux utilities.
 
-```bash
+```
 git clone https://github.com/<your-username>/custom-linpeas.git
 cd custom-linpeas
 chmod +x custom_lineaps.sh
@@ -88,7 +88,7 @@ chmod +x custom_lineaps.sh
 
 Run the script:
 
-```bash
+```
 ./custom_lineaps.sh
 ```
 
