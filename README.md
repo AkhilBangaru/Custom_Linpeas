@@ -1,4 +1,4 @@
-# 🛡️ CUSTOM LINPEAS
+#  CUSTOM LINPEAS
 <img width="893" height="319" alt="logo" src="https://github.com/user-attachments/assets/ac18c9b4-cfa8-4058-b4b9-bd88c15360ac" />
 
 **Custom linPEAS** is an **interactive Linux local enumeration framework** inspired by *linPEAS*, designed with a **clean TUI menu**, **selectable checks**, and **readable output** for learning, labs, and exam environments.
@@ -9,37 +9,37 @@ It focuses on **clarity, structure, and usability**, rather than dumping overwhe
 
 ---
 
-## ✨ Features
+##  Features
 
-* 📋 **Interactive Menu (TUI)**
+*  **Interactive Menu (TUI)**
 
   * Clean 2-column layout
   * Toggle individual checks (1–24)
   * Select All / Clear All
-* 🧠 **Structured Enumeration**
+*  **Structured Enumeration**
 
   * Logical categorization of checks
   * Easy to understand output
-* 🖥️ **Live Output + File Logging**
+*  **Live Output + File Logging**
 
   * Output shown on screen
   * Saved automatically to files
-* 📁 **Organized Output Files**
+*  **Organized Output Files**
 
   * Predictable, readable filenames
-* 🔇 **Noise-Free Execution**
+*  **Noise-Free Execution**
 
   * Permission errors suppressed
-* 🎨 **Custom ASCII Art UI**
+*  **Custom ASCII Art UI**
 
   * “CUSTOM LINPEAS” banner
-* 🧩 **Easy to Extend**
+*  **Easy to Extend**
 
   * Simple to hook your own checks
 
 ---
 
-## 📂 Enumeration Categories
+##  Enumeration Categories
 
 The tool currently includes **24 selectable checks**, grouped logically:
 
@@ -72,7 +72,7 @@ The tool currently includes **24 selectable checks**, grouped logically:
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 No dependencies required beyond standard Linux utilities.
 
@@ -84,7 +84,7 @@ chmod +x custom_lineaps.sh
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 Run the script:
 
@@ -102,7 +102,7 @@ You will see an **interactive menu** where you can:
 
 ---
 
-## 📁 Output Structure
+##  Output Structure
 
 All results are saved in a timestamped directory:
 
@@ -131,7 +131,7 @@ This makes it easy to:
 
 ---
 
-## 🧠 Design Philosophy
+##  Design Philosophy
 
 * **Readable over noisy**
 * **Manual thinking over blind automation**
@@ -142,7 +142,7 @@ This tool is intentionally **non-exploitative** and focuses on helping you **ide
 
 ---
 
-## 🛠️ Extending the Tool
+##  Extending the Tool
 
 Adding new checks is straightforward:
 
@@ -154,7 +154,7 @@ The menu system is **row-based and fixed-width**, so UI stays clean.
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This tool is intended **only for authorized environments**, such as:
 
@@ -167,13 +167,13 @@ Do **not** use this tool on systems you do not own or have explicit permission t
 
 ---
 
-## 👤 Author
+##  Author
 
 **Akhil Bangaru**
 
 ---
 
-## ⭐ Acknowledgements
+##  Acknowledgements
 
 * Inspired by **linPEAS**
 * Thanks to the offensive security community for continuous learning resources
